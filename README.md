@@ -1,5 +1,5 @@
 # Practical Machine Learning with Python
-Coursework related to [Stanford Crowd Course Initiative](http://crowdcourse.stanford.edu/ml.html)
+Coursework related to [Stanford Scholar](http://scholar.stanford.edu/ml.html)
 
 * Chapter 1 - Introduction to ML Software Stack
 * Chapter 2 - Introduction to Machine Learning
